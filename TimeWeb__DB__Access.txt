@@ -1,0 +1,11 @@
+//nikideveloper.ru
+$host = 'localhost';
+$db_name = 'cg74616_elza';
+$login = 'cg74616_elza';
+$password = 'ElzaCosmo2022';
+
+//cosmobeauty.moscow
+$host = 'localhost';
+$db_name = 'ce74315_elza';
+$login = 'ce74315_elza';
+$password = 'ElzaCosmo2022';

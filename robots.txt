@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: 
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /db__access/
+Disallow: /font-awesome-4.7.0/
+Disallow: /images/
+Disallow: /js/
+Disallow: /procedures/contraindications.php
+Disallow: /footer.php
+Disallow: /header.php
+Sitemap: https://cosmobeauty.moscow/sitemap.xml
